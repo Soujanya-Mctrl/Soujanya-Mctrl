@@ -23,10 +23,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 </h2>
 <br/>
-> **"Code is logical poetry."** 
-> 
-> I am a Computer Science Student dedicated to mastering the art of software. 
-
+Hi, I'm a Computer Science and Engineering student with a passion for building innovative projects and exploring the latest technologies. I'm excited to share my projects and experiences with you on GitHub
 <br/>
 <br/>
 
