@@ -1,25 +1,130 @@
-<h1 align="center">Hi 👋, I'm Soujanya Mallick</h1>
-<h3 align="center">Hi, I'm a Computer Science and Engineering student with a passion for building innovative projects and exploring the latest technologies. I'm excited to share my projects and experiences with you on GitHub.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soujanya-mctrl&label=Profile%20views&color=0e75b6&style=flat" alt="soujanya-mctrl" /> </p>
 
-- 📫 How to reach me **soujanyamallick199@gmail.com**
+<!-- White Text Typing Animation -->
+<img src="https://i.pinimg.com/1200x/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg" height="20%" alt="Banner" />
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<br/>
+<br/>
+<br/>
+<!-- White Text Typing Animation (Orbitron) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Soujanya+Mallick;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@soujanya__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soujanya__" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/soujanya-mallick-b50809229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soujanya mallick" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26454973/soujanya-mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="soujanya-mallick" height="30" width="40" /></a>
-<a href="https://instagram.com/soujanya.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soujanya.___" height="30" width="40" /></a>
+<br/>
+
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+</h2>
+<br/>
+> **"Code is logical poetry."** 
+> 
+> I am a Computer Science Student dedicated to mastering the art of software. 
+
+<br/>
+<br/>
+
+
+<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iTtsK7Y5d8t7XfO5bB/giphy.gif" width="30"> Tech Stack
+</h2>
+<br/>
+<div align="center">
+<!-- Larger Rounded Matte Badges (height=28) with High Contrast Text -->
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="40" />
+
+<br/>
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="40" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40" />
+
+<br/>
+
+<!-- AI / Web3 -->
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" height="40" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="40" />
+
+</div>
+
+<br/>
+
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> GitHub Stats
+</h2>
+
+<div align="center">
+
+<!-- Blue Minimalist Stats: Pitch Black BG + White Text + React Blue Accents -->
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soujanya-mctrl&hide_border=true&background=transparent&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=61DAFB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="800" alt="streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<h2 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFpaTA4cHhhMHNyaXIyaXl1NzdlM3RiOWQzYncxM3A4ZXV6ZGl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="30"> Let's Connect
+</h2>
+
+<br/>
+
+<!-- Minimal White Minimal Footer Connect (Updated to Match Tech Stack) -->
+<p align="center">
+<a href="https://www.linkedin.com/in/soujanya-mallick-b50809229" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="40" alt="linkedin" />
+</a>
+<a href="mailto:soujanyamallick199@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="40" alt="gmail" />
+</a>
+<a href="https://stackoverflow.com/users/26454973/soujanya-mallick" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white" height="40" alt="stackoverflow" />
+</a>
+<a href="https://dev.to/@soujanya__" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" height="40" alt="devto" />
+</a>
+<a href="https://instagram.com/soujanya.___" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="40" alt="instagram" />
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soujanya-mctrl&show_icons=true&locale=en&layout=compact" alt="soujanya-mctrl" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soujanya-mctrl&show_icons=true&locale=en" alt="soujanya-mctrl" /></p>
+</div>
