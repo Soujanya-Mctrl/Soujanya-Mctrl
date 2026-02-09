@@ -27,6 +27,7 @@ Hi, I'm a Computer Science and Engineering student with a passion for building i
 <br/>
 <br/>
 
+ 📫 How to reach me **soujanyamallick199@gmail.com**
 
 <div align="center">
 <h2 align="center">
@@ -125,3 +126,5 @@ Hi, I'm a Computer Science and Engineering student with a passion for building i
 </a>
 </p>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soujanya-mctrl&label=Profile%20views&color=0e75b6&style=flat" alt="soujanya-mctrl" /> </p>
